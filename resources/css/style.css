@@ -1,0 +1,11 @@
+html {
+  font-family: Helvetica, sans-serif;
+  background-color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+/*  color: white; */
+}
