@@ -41,6 +41,7 @@ p {
   background-image: url("../images/the-flatiron-building.png");
   background-size: 100% 100%;
   background-repeat:no-repeat;
+  background-position: center center;
 }
 
 #banner-heading a {
@@ -50,6 +51,7 @@ p {
 #banner-design {
   background-image: url("../images/the-flatiron-building.png");
   background-repeat:no-repeat;
+  background-size: 100% auto;
   background-position: center center;
 }
 
